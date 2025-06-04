@@ -136,7 +136,7 @@ Serviço gerenciado de orquestração de contêineres com Kubernetes, sendo poss
 -Azure Container Apps
 Plataforma serverless para contêineres, focada em microsserviços e funções orientadas a eventos com Escala automática com base na demanda.
 
-## Armazenamento do Azure
+## ⚡Armazenamento do Azure
 
 <p style="text-align: justify;">O Azure oferece uma infraestrutura de armazenamento escalável, com suporte a diferentes tipos de dados: arquivos, blobs, discos, filas, tabelas e bancos de dados.</p>
 
