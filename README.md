@@ -133,7 +133,7 @@ Executa tarefas em paralelo e em grande escala usando pools de VMs, ideal para r
 Executa contêineres de forma rápida e isolada, sem necessidade de gerenciar VMs, sendo ideal para workloads curtos, scripts, microsserviços e testes.
 - Azure Kubernetes Service (AKS)
 Serviço gerenciado de orquestração de contêineres com Kubernetes, sendo possível automatizar atualizações assim como escalonamento e monitoramento de clusters.
--Azure Container Apps
+- Azure Container Apps
 Plataforma serverless para contêineres, focada em microsserviços e funções orientadas a eventos com Escala automática com base na demanda.
 
 ## ⚡Armazenamento do Azure
